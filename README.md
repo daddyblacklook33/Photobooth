@@ -212,4 +212,4 @@ Photobooth is available as a **full free version** software, including all featu
 Don't miss out on the fun! Download **Photobooth** now and start capturing those unforgettable memories with your webcam!
 
 ---
-**Last updated:** 2026-09-26 11:58:13 UTC
+**Last updated:** 2026-09-26 15:52:18 UTC
